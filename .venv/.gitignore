@@ -3,5 +3,5 @@ main_print_vi.ipynb
 *.avi
 
 # 폴더
-venv/
+.venv/
 .vscode/
