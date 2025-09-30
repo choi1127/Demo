@@ -1,7 +1,8 @@
 # 파일
 main_print_vi.ipynb
 *.avi
+*.mp4
 
 # 폴더
-venv/
+.venv/
 .vscode/
